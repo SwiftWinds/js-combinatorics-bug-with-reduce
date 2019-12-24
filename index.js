@@ -1,15 +1,5 @@
 const Combinatorics = require("js-combinatorics");
 
-const history = [
-  [
-    ["Penelope", "Jenny", "Stan", "Fredric"],
-    ["Karen", "Ivan", "George", "Nathan"],
-    ["Brad", "Alleson", "Tom", "Charlie"],
-    ["Rachel", "Danielle", "Mona", "Laura"],
-    ["Harriet", "Olive"]
-  ]
-];
-
 const group = ["Penelope", "Brad", "Ivan"];
 
 const cmb = Combinatorics.combination(group, 2);
