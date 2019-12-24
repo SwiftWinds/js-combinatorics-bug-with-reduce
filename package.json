@@ -1,0 +1,22 @@
+{
+  "name": "js-combinatorics-bug-with-reduce",
+  "version": "1.0.0",
+  "description": "A demo project of the bug when running `.reduce` on Combinatorics.combination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bug",
+    "combinatorics",
+    "reduce",
+    "js-combinatorics",
+    "strange",
+    "behavior"
+  ],
+  "author": "SwiftWinds",
+  "license": "MIT",
+  "dependencies": {
+    "js-combinatorics": "^0.5.4"
+  }
+}
